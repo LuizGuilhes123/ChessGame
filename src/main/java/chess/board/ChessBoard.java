@@ -1,5 +1,7 @@
 package chess.board;
 
+import chess.pieces.*;
+
 public class ChessBoard {
 
     private Piece[][] board;
